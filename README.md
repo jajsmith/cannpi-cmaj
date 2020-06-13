@@ -14,8 +14,17 @@ The code for generating each figure in the paper can be found inside the jupyter
 
 **Figure 1.** Temporal distribution of non-pharmaceutical interventions implemented across Canada from January 1 to April 19, 2020 in response to the COVID-19 epidemic. n=2,517.
 
-![Figure 1](doc/img/intervention-count.png)
+![Figure 1](figure1/figure1.png)
 
+**Figure 2.** TODO
+
+**Figure 3.** TODO
+
+**Figure 4.** Implementation of 10 most frequently reported NPIs only at the subregion level in Canada by Census Metropolitan Areas (ranked by population size) over time.
+
+![Figure 1](figure4/figure4.png)
+
+**Figure 4.** TODO
 ## Access and Details
 
 The codebook and additional details can be found at https://docs.google.com/spreadsheets/d/16jZ8tdPS9x8kRHAi5CRh8iKfDshg0AMbfFLJ9ysgV9U/edit?usp=sharing
