@@ -26,7 +26,9 @@ The code for generating each figure in the paper can be found inside the jupyter
 
 ![Figure 1](figure4/figure4.png)
 
-**Figure 4.** TODO
+**Figure 5.** Public event size restrictions over time in Canada by Census Metropolitan Area. Lines connect NPIs from the same municipality. Overlapping points indicate the same value as the lowest point (CMAs that did not announce event size restrictions at the municipal level are excluded). 
+![Figure 5](figure5/figure5.png)
+
 ## Access and Details
 
 The codebook and additional details can be found at https://docs.google.com/spreadsheets/d/16jZ8tdPS9x8kRHAi5CRh8iKfDshg0AMbfFLJ9ysgV9U/edit?usp=sharing
