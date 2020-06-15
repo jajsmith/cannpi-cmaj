@@ -16,7 +16,9 @@ The code for generating each figure in the paper can be found inside the jupyter
 
 ![Figure 1](figure1/figure1.png)
 
-**Figure 2.** TODO
+**Figure 2.** Government Response Stringency Index in Canada by province and territory over time, n=841.
+
+![Figure 2](figure2/figure2.png)
 
 **Figure 3.** TODO
 
