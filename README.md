@@ -20,7 +20,9 @@ The code for generating each figure in the paper can be found inside the jupyter
 
 ![Figure 2](figure2/figure2.png)
 
-**Figure 3.** TODO
+**Figure 3.** Variation in time-to-implementation for two major NPIs—declaration of state of emergency and school closure— shown relative to two descriptors of the local COVID-19 outbreak, dates of first case and first death by Canadian province and territory.
+
+![Figure 3](figure3.png)
 
 **Figure 4.** Implementation of 10 most frequently reported NPIs only at the subregion level in Canada by Census Metropolitan Areas (ranked by population size) over time.
 
